@@ -41,6 +41,7 @@
 ├─◈ <a href="https://github.com/En-achraf/Push_swap">Push_swap</a>
 ├─◈ <a href="https://github.com/ac-ennadi/Philosophers">Philosophers</a>
 ├─◈ <a href="https://github.com/issamelkhaili/minishell">Minishell</a>
+|─◈ <a href="#">CUB3D</a>
 │
 └───────────────────────────────▰▰▰
 
