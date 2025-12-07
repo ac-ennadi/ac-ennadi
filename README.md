@@ -48,7 +48,7 @@
 ┌──┤ My Project ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/En-achraf/Spy-Tool">Spy Tool</a>
-├─◈ <a href="https://github.com/En-achraf/syscall-reborn">syscall-reborn</a>
+├─◈ <a href="https://github.com/En-achraf/syscall-reborn">linux-funs</a>
 ├─◈ <a href="https://github.com/ac-ennadi/Web_Practice">Web-Practice</a>
 │
 └───────────────────────────────▰▰▰
