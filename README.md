@@ -29,7 +29,7 @@
 │
 ├─◈ <a href="https://github.com/En-achraf/C-Piscine">Piscine 2024</a>
 ├─◈ <a href="https://github.com/En-achraf/libft">libft</a>
-├─◈ <a href="https://github.com/En-achraf/ft_printf">ft_printf</a>
+├─◈ <a href="https://github.com/En-achraf/ft_printf">printf</a>
 ├─◈ <a href="https://github.com/En-achraf/get_next_line">get_next_line</a>
 ├─◈ <a href=https://github.com/En-achraf/Born2BeRoot">Born2BeRoot</a>
 ├─◈ <a href="https://github.com/En-achraf/so_long">So_long</a>
@@ -37,7 +37,7 @@
 ├─◈ <a href="https://github.com/En-achraf/Push_swap">Push_swap</a>
 ├─◈ <a href="https://github.com/ac-ennadi/Philosophers">Philosophers</a>
 ├─◈ <a href="https://github.com/issamelkhaili/minishell">Minishell</a>
-|─◈ <a href="https://github.com/ac-ennadi/My-CUB3D">CUB3D</a>
+|─◈ <a href="https://github.com/ac-ennadi/My-CUB3D">raycasting_game</a>
 │
 └───────────────────────────────▰▰▰
 
