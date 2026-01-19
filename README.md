@@ -38,7 +38,7 @@
 ├─◈ <a href="https://github.com/ac-ennadi/Philosophers">Philosophers</a>
 ├─◈ <a href="https://github.com/issamelkhaili/minishell">Minishell</a>
 |─◈ <a href="https://github.com/ac-ennadi/My-CUB3D">raycasting_game</a>
-|─◈ <a href="https://github.com/ac-ennadi/My-CUB3D">CPP-Module-00</a>
+|─◈ <a href="https://github.com/ac-ennadi/CPP-Module-00">CPP-Module-00</a>
 |─◈ <a href="https://github.com/ac-ennadi/My-CUB3D">CPP-Module-01</a>
 |─◈ <a href="https://github.com/ac-ennadi/My-CUB3D">CPP-Module-02</a>
 |─◈ <a href="https://github.com/ac-ennadi/My-CUB3D">CPP-Module-03</a>
