@@ -43,7 +43,8 @@
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-02">CPP-Module-02</a>
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-03">CPP-Module-03</a>
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-04">CPP-Module-04</a>
-|─◈ <a href="https://github.com/ac-ennadi/CPP-Module-04">CPP-Module-05</a>
+|─◈ <a href="https://github.com/ac-ennadi/CPP-Module-05">CPP-Module-05</a>
+|─◈ <a href="https://github.com/ac-ennadi/CPP-Module-05">WEB-SERVER</a>
 │
 └───────────────────────────────▰▰▰
 
