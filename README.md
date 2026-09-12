@@ -45,6 +45,7 @@
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-04">CPP-Module-04</a>
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-05">CPP-Module-05</a>
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-06">CPP-Module-06</a>
+|─◈ <a href="https://github.com/ac-ennadi/CPP-Module-07">CPP-Module-07</a>
 |─◈ <a href="https://github.com/elkhailiissam/irc">IRC</a>
 │
 └───────────────────────────────▰▰▰
