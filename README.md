@@ -57,7 +57,7 @@
 ├─◈ <a href="https://github.com/En-achraf/Spy-Tool">Spy Tool</a>
 ├─◈ <a href="https://github.com/ac-ennadi/Ft_setup">Ft_setup</a>
 ├─◈ <a href="https://github.com/ac-ennadi/ROWATCH">ROWATCH</a>
-├─◈ <a href="https://github.com/ac-ennadi/NewShell"></a>
+├─◈ <a href="https://github.com/ac-ennadi/NewShell">NewShell</a>
 │
 └───────────────────────────────▰▰▰
 	
