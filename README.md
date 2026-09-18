@@ -57,6 +57,7 @@
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-07">CPP-Module-07</a>
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-08">CPP-Module-08</a>
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-09">CPP-Module-09</a>
+|─◈ <a href="https://github.com/ac-ennadi/Java-Module-00">Java Module 00</a>
 │
 └───────────────────────────────▰▰▰
 	
