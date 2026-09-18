@@ -36,8 +36,14 @@
 ├─◈ <a href="https://github.com/En-achraf/minitalk">Minitalk</a>
 ├─◈ <a href="https://github.com/En-achraf/Push_swap">Push_swap</a>
 ├─◈ <a href="https://github.com/ac-ennadi/Philosophers">Philosophers</a>
-├─◈ <a href="https://github.com/issamelkhaili/minishell">Minishell</a>
 |─◈ <a href="https://github.com/ac-ennadi/My-CUB3D">raycasting_game</a>
+|─◈ <a href="https://github.com/elkhailiissam/irc">IRC</a>
+│
+└───────────────────────────────▰▰▰
+
+
+┌──┤ New Things ├───────▰▰▰
+│
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-00">CPP-Module-00</a>
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-01">CPP-Module-01</a>
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-02">CPP-Module-02</a>
@@ -48,10 +54,9 @@
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-07">CPP-Module-07</a>
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-08">CPP-Module-08</a>
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-09">CPP-Module-09</a>
-|─◈ <a href="https://github.com/elkhailiissam/irc">IRC</a>
 │
 └───────────────────────────────▰▰▰
-
+	
 ┌──┤ My Project ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/En-achraf/Spy-Tool">Spy Tool</a>
