@@ -27,7 +27,6 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/En-achraf/C-Piscine">Piscine 2024</a>
 ├─◈ <a href="https://github.com/En-achraf/Spy-Tool">Spy Tool</a>
 ├─◈ <a href="https://github.com/En-achraf/libft">libft</a>
 ├─◈ <a href="https://github.com/En-achraf/ft_printf">printf</a>
@@ -47,6 +46,7 @@
 
 ┌──┤ New Things ├───────▰▰▰
 │
+├─◈ <a href="https://github.com/En-achraf/C-Piscine">Piscine 2024</a>
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-00">CPP-Module-00</a>
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-01">CPP-Module-01</a>
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-02">CPP-Module-02</a>
