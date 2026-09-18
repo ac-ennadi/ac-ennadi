@@ -25,7 +25,7 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ 42 PROJECTS ├───────▰▰▰
+┌──┤ PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/En-achraf/C-Piscine">Piscine 2024</a>
 ├─◈ <a href="https://github.com/En-achraf/libft">libft</a>
@@ -37,6 +37,10 @@
 ├─◈ <a href="https://github.com/ac-ennadi/Philosophers">Philosophers</a>
 |─◈ <a href="https://github.com/ac-ennadi/My-CUB3D">raycasting_game</a>
 |─◈ <a href="https://github.com/elkhailiissam/irc">IRC</a>
+├─◈ <a href="https://github.com/En-achraf/Spy-Tool">Spy Tool</a>
+├─◈ <a href="https://github.com/ac-ennadi/Ft_setup">Ft_setup</a>
+├─◈ <a href="https://github.com/ac-ennadi/ROWATCH">ROWATCH</a>
+├─◈ <a href="https://github.com/ac-ennadi/New_Shell">New_Shell</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -53,15 +57,6 @@
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-07">CPP-Module-07</a>
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-08">CPP-Module-08</a>
 |─◈ <a href="https://github.com/ac-ennadi/CPP-Module-09">CPP-Module-09</a>
-│
-└───────────────────────────────▰▰▰
-	
-┌──┤ My Project ├───────▰▰▰
-│
-├─◈ <a href="https://github.com/En-achraf/Spy-Tool">Spy Tool</a>
-├─◈ <a href="https://github.com/ac-ennadi/Ft_setup">Ft_setup</a>
-├─◈ <a href="https://github.com/ac-ennadi/ROWATCH">ROWATCH</a>
-├─◈ <a href="https://github.com/ac-ennadi/New_Shell">New_Shell</a>
 │
 └───────────────────────────────▰▰▰
 	
